@@ -1,6 +1,6 @@
 <h1>Tracking Energy Production Through GDP Per Capita</h1>
 
- ### [Powerpoint Presentation]([https://github.com/eericson2005/Energy-vs-GDP/blob/276d0bf53da9780d064aeb29d59dbc5d001e343a/DASC_1003H_I-EDA_EthanEricson.pptx](https://github.com/eericson2005/Energy-vs-GDP/blob/10edb356cf28635d4c7c46995b55324d066c338e/DASC_1003H_I-EDA_EthanEricson.pptx))
+ ### [Powerpoint Presentation](https://github.com/eericson2005/Energy-vs-GDP/blob/10edb356cf28635d4c7c46995b55324d066c338e/DASC_1003H_I-EDA_EthanEricson.pptx)
 
 <h2>Description</h2>
 
