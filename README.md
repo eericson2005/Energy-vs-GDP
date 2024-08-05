@@ -21,5 +21,7 @@
 
 - <b>Visual Studio Code</b>
 
-<h2>Visualizations:</h2>
+<h2>Code:</h2>
+
+- [Jupyter Notebook]
 
