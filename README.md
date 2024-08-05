@@ -22,8 +22,3 @@
 <h2>Environments Used </h2>
 
 - <b>Visual Studio Code</b>
-
-<h2>Code</h2>
-
-- [Jupyter Notebook](https://github.com/eericson2005/Energy-vs-GDP/blob/d0b056e5efaf3c3cdf2865ee9b3229f4c98bb9d8/I-EDA%20Python%20Visualizations.ipynb)
-
