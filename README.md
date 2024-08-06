@@ -2,7 +2,7 @@
 
  ### [Jupyter Notebook](https://github.com/eericson2005/Energy-vs-GDP/blob/d0b056e5efaf3c3cdf2865ee9b3229f4c98bb9d8/I-EDA%20Python%20Visualizations.ipynb)
  ### [Powerpoint Presentation](https://uark-my.sharepoint.com/:p:/g/personal/ericson_uark_edu/EemD0BmgiyFErzdsZJo0LbUBSDQnQGUk6CsDguYNRbr99Q?e=1HxnUo)
- ### [Report](https://github.com/eericson2005/Energy-vs-GDP/blob/3a460d18d6838e7568aa59d149e60e76403ceb26/DASC_1003H-I-EDA_EthanEricson.docx)
+ ### [Report](https://uark-my.sharepoint.com/:w:/g/personal/ericson_uark_edu/EbMcn746iqRJlkwll-cVswQBYAmiBLiUapCTbKT6CCcdUA?e=NUeWFC)
  
 <h2>Description</h2>
 
