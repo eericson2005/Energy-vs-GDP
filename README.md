@@ -5,7 +5,7 @@
  ### [Report](https://uark-my.sharepoint.com/:w:/g/personal/ericson_uark_edu/EbMcn746iqRJlkwll-cVswQBYAmiBLiUapCTbKT6CCcdUA?e=NUeWFC)
  
 <h2>Description</h2>
-
+Welcome to my first data science project! In this
 <br />
 
 <h2>Datasets Used</h2>
