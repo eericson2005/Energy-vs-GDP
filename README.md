@@ -11,8 +11,6 @@ Included in the README for this repository are links to the Jupyter Notebook I p
 
 If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive.
 
-<br />
-
 <h2>Datasets Used</h2>
 
 - [UN Energy Statistics - Total Electricity](https://data.un.org/Data.aspx?d=EDATA&f=cmID%3aEL%3btrID%3a01)
