@@ -9,7 +9,7 @@ Welcome to my first data science project! In this exploratory data analysis (EDA
 <br/>
 Included in the README for this repository are links to the Jupyter Notebook I performed my analysis within, a PowerPoint presentation of my findings, and an in-depth report of my EDA process.<br/>
 <br/>
-If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive.
+If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive. Alternatively you can download the raw files directly. 
 
 <h2>Datasets Used</h2>
 
