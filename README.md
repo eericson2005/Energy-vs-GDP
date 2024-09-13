@@ -1,7 +1,7 @@
 <h1>Tracking Energy Production Through GDP Per Capita</h1>
 
  ### [Jupyter Notebook](https://github.com/eericson2005/Energy-vs-GDP/blob/main/I-EDA%20Python%20Visualizations.ipynb)
- ### [Powerpoint Presentation](https://github.com/eericson2005/Energy-vs-GDP/blob/main/DASC_1003H_I-EDA_EthanEricson.pdf)
+ ### [Powerpoint Presentation](https://github.com/eericson2005/Energy-vs-GDP/blob/main/DASC_1003H_I-EDA_PowerPoint_EthanEricson.pdf)
  ### [Report](https://github.com/eericson2005/Energy-vs-GDP/blob/main/DASC_1003H-I-EDA_Report_EthanEricson.pdf)
  
 <h2>Description</h2>
