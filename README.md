@@ -2,7 +2,7 @@
 
  ### [Jupyter Notebook](https://github.com/eericson2005/Energy-vs-GDP/blob/main/I-EDA%20Python%20Visualizations.ipynb)
  ### [Powerpoint Presentation](https://github.com/eericson2005/Energy-vs-GDP/blob/main/DASC_1003H_I-EDA_EthanEricson.pdf)
- ### [Report](https://github.com/eericson2005/Energy-vs-GDP/blob/main/DASC_1003H-I-EDA_EthanEricson.pdf)
+ ### [Report](https://github.com/eericson2005/Energy-vs-GDP/blob/main/DASC_1003H-I-EDA_Report_EthanEricson.pdf)
  
 <h2>Description</h2>
 Welcome to my first data science project! In this exploratory data analysis (EDA), I investigate the connection between a country’s gross domestic product (GDP) per capita and its gross energy production.<br/>
