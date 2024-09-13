@@ -1,7 +1,7 @@
 <h1>Tracking Energy Production Through GDP Per Capita</h1>
 
  ### [Jupyter Notebook](https://github.com/eericson2005/Energy-vs-GDP/blob/d0b056e5efaf3c3cdf2865ee9b3229f4c98bb9d8/I-EDA%20Python%20Visualizations.ipynb)
- ### [Powerpoint Presentation](https://uark-my.sharepoint.com/:p:/g/personal/ericson_uark_edu/EemD0BmgiyFErzdsZJo0LbUBSDQnQGUk6CsDguYNRbr99Q?e=1HxnUo)
+ ### [Powerpoint Presentation](https://github.com/eericson2005/Energy-vs-GDP/blob/5f62b57975186f8daecda61b70efd18b3266571e/DASC_1003H_I-EDA_EthanEricson.pdf)
  ### [Report](https://github.com/eericson2005/Energy-vs-GDP/blob/8080b98ffe56514ed57963147ae615c3a3441a25/DASC_1003H-I-EDA_EthanEricson.pdf)
  
 <h2>Description</h2>
@@ -9,7 +9,6 @@ Welcome to my first data science project! In this exploratory data analysis (EDA
 <br/>
 Included in the README for this repository are links to the Jupyter Notebook I performed my analysis within, a PowerPoint presentation of my findings, and an in-depth report of my EDA process.<br/>
 <br/>
-If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive. Alternatively, you can download the raw files directly. 
 
 <h2>Datasets Used</h2>
 
